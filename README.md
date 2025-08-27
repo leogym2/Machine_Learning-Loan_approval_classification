@@ -2,8 +2,8 @@
 
 ## Project Summary  
 
-This project was developed as part of the **KNIME Challenge**, where our group achieved **second place**.  
-[Post of the final cerimony](https://www.linkedin.com/posts/rosaria_knime-student-challenge-ugcPost-7326141038211776512-L7Pr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADW12AQBUz2uIpJd8md73AqcJxwZr1Uz6_A)
+This project was developed as part of the **KNIME Challenge**, where our group achieved [**second place**](https://www.linkedin.com/posts/rosaria_knime-student-challenge-ugcPost-7326141038211776512-L7Pr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADW12AQBUz2uIpJd8md73AqcJxwZr1Uz6_A).   
+  
 The task focused on building a machine learning model to classify **loan applications** as *risky* or *non-risky*, a typical problem in credit risk assessment.  
 
 - **Dataset**:  
